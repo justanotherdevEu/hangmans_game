@@ -1,5 +1,5 @@
 #This code is writen in Python, comments in Spanish, so, if u want them in English i invite u to use https://www.deepl.com/translator
-# re library  is not really necessary 4 this code, but i seemed usefull for my eyes. If u have any questions u can send me an email to
+# re library  is not really necessary 4 this code, but it seemed usefull for my eyes. If u have any questions u can send me an email to
 # justanotherdev@protonmail.com. The idea of this code is to start with a group of 10 words, one is chosen "randomly" (we all know computers
 # are unable to generate random numbers, there's a sequence we don't know used for each time we use random, so it's pseudo-random) , then
 # that word is hidden (well, superseded) with low bars, and u have to guess typing a letter it's time, then u got chance to guess the full word
