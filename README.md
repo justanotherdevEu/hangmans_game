@@ -3,6 +3,6 @@ Just a simple code in Python, playing hangman's game some test code commented, a
 
 The operation consists in a group of 10 words, one is chosen "randomly" (we all know computers can't generate anything randomly) and each letter superseded with a low bar. U have to guess the word
 
-U are free to edit, play,execute, redistribute, or anything u like with this code, total liberty
+U are free to edit, play, execute, redistribute, or anything u like with this code, total liberty
 
 Have fun
